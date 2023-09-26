@@ -1,0 +1,205 @@
+.iconcontainer{
+    text-align: center;
+    height: 600px; 
+    background-color: #e0e5eb;
+}
+
+.dubai{
+    width: 100%;
+    height: 70%;
+}
+
+.residential{
+    color: black;
+    background-color: white;
+    border: 1px solid black;
+    padding: 3%;
+    
+}
+
+.icon{
+    font-size: 50px;
+    background-color: #f1c50e;
+    color: white;
+    padding: 3%;
+    border-radius: 50%;
+    margin-top: -60px;
+    position: absolute;
+    margin-left: -35px;
+    
+}
+
+.heading3{
+    margin-top: 20px;
+}
+
+.link{
+    margin-top: 20px;
+}
+
+.teamwork{
+    height: 350px;
+    width: 300px;
+    margin-top: 230px;
+    float: right;
+}
+
+@media screen and (max-width: 800px) {
+     .teamwork {
+      width: 100%;
+      margin-top: 350px;
+     }
+    }
+
+.civileng{
+    height: 350px;
+    width: 350px;
+    margin-top: 60px;
+}
+
+.sky{
+    height: 550px;
+    width: 900px;
+}
+
+.fullservice{
+    background-color: white;
+    padding: 30px;
+    margin-top: 150px;
+}
+
+@media screen and (max-width: 800px) {
+    .sky {
+     width: 100%;
+    }
+   }
+
+.adr{
+    color: white; 
+    text-align: center;
+    padding-top: 30px;
+}   
+
+.Urbanplanning{
+    background-color: white;
+    color: black;
+    text-align: left;
+    border-left: 20px solid #f1c50e;
+    padding: 30px;
+    margin-top: 30px;
+}
+
+.b1{
+    border-radius: 100%;
+    height: 100px;
+    width: 100px;
+}   
+
+.contact{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+.days{
+    text-align: center;
+    margin-top: 80px;
+    line-height: 7px;
+}
+
+.dbuildings{
+    height: 270px;
+    width: 270px;
+    margin: 20px 0px 0px 28px;
+}
+
+@media screen and (max-width: 800px) {
+    .dbuildings {
+     margin-left: 55px;
+    }
+   }
+
+.bgimg{
+    background-image: url(fimg.jpg);
+    background-size: cover;
+    height: 700px;
+    width: 100%;
+    margin-top: 30px;
+}   
+
+.portfolio{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    padding-top: 80px;
+}
+
+.fbox{
+    margin-top: 200px;
+    margin-left: 12%;
+    text-align: center;
+}
+
+.bgstyle{
+    background-color: #143472;
+    color: white;
+    padding: 10px;
+    border-bottom: 10px solid #f1c50e;
+}
+
+.desingbuilding{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-top: -40px;
+}
+
+.fcontant{
+    margin: 20px 0px 20px 0px;
+}
+
+@media screen and (max-width: 800px) {
+    .bgstyle{
+     margin-top: 30px;
+    }
+   }
+
+ @media screen and (max-width: 800px) {
+    .portfolio{
+     font-size: 20px;
+    }
+    .fform{
+        margin-top: 500px;
+    }
+    .fbtn{
+        margin-left: 30% !important;
+    }
+   }
+
+.ContactUs{
+    text-align: center;
+    color: white;
+ }  
+
+ .detail{
+    margin-top: 30px;
+    text-align: center;
+ }
+
+ .finfo{
+    color: white;
+    padding: 20px;
+ }
+
+ .fbtn{
+    margin-left: 43%;  
+ }
+
+ .call{
+    color: #f1c50e;
+ }
+
+ .call:hover{
+    color: white;
+ }
+
